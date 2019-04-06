@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleMainMenuTemplate", "ConsoleMainMenuTemplate\ConsoleMainMenuTemplate.vcxproj", "{CE095F80-7CBD-404E-9858-720CD244D740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Debug|x64.ActiveCfg = Debug|x64
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Debug|x64.Build.0 = Debug|x64
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Debug|x86.Build.0 = Debug|Win32
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Release|x64.ActiveCfg = Release|x64
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Release|x64.Build.0 = Release|x64
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Release|x86.ActiveCfg = Release|Win32
+		{CE095F80-7CBD-404E-9858-720CD244D740}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82CA3DD-2828-483B-96FC-E669ED3A376A}
+	EndGlobalSection
+EndGlobal
